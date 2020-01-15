@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello Git 123 272727
 It`s new line.
 Add new line. test
+=======
+Hello Git
+>>>>>>> parent of ddb9e62... Second commit
