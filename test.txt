@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Hello Git 123 272727
 It`s new line.
 Add new line. test
